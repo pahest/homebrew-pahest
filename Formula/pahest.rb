@@ -1,8 +1,8 @@
 class Pahest < Formula
   desc "Local backup for AI apps: Claude Code and Codex sessions, readable offline"
   homepage "https://github.com/pahest/pahest"
-  url "https://github.com/pahest/pahest/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "bb3404f9298b96e0f3c265d84eee2634d78ad5b91c8f4703e9f6633f0743432c"
+  url "https://github.com/pahest/pahest/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "bb9e69b3f5d78e608e670ef6b1e95aeec53cfdd86ce56d345ba985afddb36d72"
   license "MIT"
 
   depends_on :macos
